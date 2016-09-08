@@ -1,0 +1,1 @@
+File.WriteAllText("G:\\" + Variable Referencing File Name + ".txt", Variable Referencing Data);
